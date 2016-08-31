@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: www.litopad.com
+    type: external
 favicon: null
 title: LITO PAD
 description: 'Bass player, Dj / Producer'
