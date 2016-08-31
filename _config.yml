@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/62c228c6-d401-4239-902a-7948b2a3583c.psd
 name: LitoPad
 cta:
   domain: null
