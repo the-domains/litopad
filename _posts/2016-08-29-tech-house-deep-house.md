@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-08-29T18:51:09.315Z'
+datePublished: '2016-08-29T19:06:23.862Z'
+sourcePath: _posts/2016-08-29-tech-house-deep-house.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T18:50:49.932Z'
+dateModified: '2016-08-29T19:06:23.489Z'
 title: 'Tech House, Deep House.'
 publisher:
   name: Admin
 description: ''
 starred: false
-sourcePath: _posts/2016-08-29-tech-house-deep-house.md
-inFeed: true
-hasPage: true
-inNav: false
-url: tech-house-deep-house/index.html
 _context: 'http://schema.org'
 _type: Article
 
