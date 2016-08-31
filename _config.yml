@@ -1,0 +1,29 @@
+typography_spectrum: 0.5161461851093918
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.20211292896419764
+  lightness: 0.05299368337728083
+  saturation: 0.25825219159014523
+  rhythmicContrast: 0.0772020595613867
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4704030817374587
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: LitoPad
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: LITO PAD
+purpose: []
