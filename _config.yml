@@ -1,28 +1,32 @@
-name: LitoPad
-favicon: null
-layout_spectrum: 0.4704030817374587
-typography_spectrum: 0.5161461851093918
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.713331405306235
+typography_spectrum: 0.40286210691556334
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.6946909567341208
+  lightness: 0.2724426828790456
+  saturation: 0.11160045908764005
+  rhythmicContrast: 0.9980252906680107
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.20211292896419764
-  lightness: 0.05299368337728083
-  saturation: 0.25825219159014523
-  rhythmicContrast: 0.0772020595613867
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ead5d509-e497-4c98-a11f-e1a3f2ce1bd1.jpg
+name: LitoPad
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: LITO PAD
+description: 'Bass player, Dj / Producer'
 purpose: []
