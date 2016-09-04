@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LITO PAD]]></title>
+        <description><![CDATA[LITO PAD]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 16:40:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Teen Town COVER por LITO PAD]]></title>
+            <description><![CDATA[<article><h1>Teen Town COVER por LITO PAD</h1><p>JACO PASTORIUS</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9fc8cf7a549ee7a5d2c51483fa9ddcaa/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F556017525_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/155294401</link>
+            <guid isPermaLink="false">4d68fe23-7f49-4635-b3b4-1a765da6dd42</guid>
+            <pubDate>Thu, 01 Sep 2016 16:40:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
