@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-01T21:14:24.467Z'
+datePublished: '2016-09-01T21:24:01.289Z'
 sourcePath: _posts/2016-09-01-teen-town-cover-por-lito-pad.md
 isBasedOnUrl: 'https://vimeo.com/155294401'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-01T21:14:24.027Z'
+dateModified: '2016-09-01T21:24:00.678Z'
 title: ''
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/155294401'
@@ -37,7 +37,7 @@ app_links:
     id: com.vimeo.android.videoapp
 publisher: {}
 description: JACO PASTORIUS - TEEN TOWN
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
