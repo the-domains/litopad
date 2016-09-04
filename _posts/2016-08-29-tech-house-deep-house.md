@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-09-01T16:52:35.619Z'
+datePublished: '2016-09-01T17:02:04.601Z'
 sourcePath: _posts/2016-08-29-tech-house-deep-house.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:52:35.292Z'
+dateModified: '2016-09-01T17:02:04.130Z'
 title: ELECTRÓNICA
-publisher:
-  name: Admin
+publisher: {}
 description: “Una pasión que voy descubriendo día con día.”
 starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe6fccb4-979b-422a-a81d-fd6729e18bf4.jpg)
+
 # ELECTRÓNICA
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87065169-0558-478d-a2be-21c8493bba7c.jpg)
 
 "Una pasión que voy descubriendo día con día."
