@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T16:46:24.773Z'
+datePublished: '2016-09-01T16:49:03.534Z'
 sourcePath: _posts/2016-08-29-tech-house-deep-house.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:46:24.375Z'
+dateModified: '2016-09-01T16:49:03.120Z'
 title: ELECTRÓNICA
 publisher:
   name: Admin
