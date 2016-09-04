@@ -1,15 +1,12 @@
 ---
-datePublished: '2016-09-01T17:03:42.340Z'
+datePublished: '2016-09-01T17:06:24.772Z'
 sourcePath: _posts/2016-09-01-teen-town-cover-por-lito-pad.md
 isBasedOnUrl: 'https://vimeo.com/155294401'
 keywords: []
 related: []
-author:
-  - name: Lito Pad Oficial
-    url: 'https://vimeo.com/litopad'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-09-01T17:03:41.818Z'
+dateModified: '2016-09-01T17:06:24.101Z'
 title: ''
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/155294401'
