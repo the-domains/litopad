@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T23:43:47.475Z'
+datePublished: '2016-09-01T23:45:42.872Z'
 sourcePath: _posts/2016-08-29-tech-house-deep-house.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T23:43:46.932Z'
+dateModified: '2016-09-01T23:45:42.401Z'
 title: ELECTRÓNICA
 publisher: {}
 description: “Una pasión que voy descubriendo día con día.”
