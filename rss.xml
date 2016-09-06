@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LITO PAD]]></title>
         <description><![CDATA[LITO PAD]]></description>
-        <link>https://thegrid.ai/litopad/</link>
+        <link>http://litopad.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 23:48:46 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/litopad/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 14:58:41 GMT</lastBuildDate>
+        <atom:link href="http://litopad.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Teen Town COVER por LITO PAD]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F155294401&url=https%3A%2F%2Fvimeo.com%2F155294401&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F556017525_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>https://vimeo.com/155294401</link>
             <guid isPermaLink="false">4d68fe23-7f49-4635-b3b4-1a765da6dd42</guid>
-            <pubDate>Thu, 01 Sep 2016 23:48:44 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 14:58:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
